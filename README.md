@@ -6,7 +6,7 @@
 ## Analysis and Challenges
 
 ### Based on past Kickstarter data, The highest outcome is in May, a 62% chance in success rate. In December the amount of failed almost equals the amount of succeeded, a 49% chance of success.
-![Theater_Outcomes_vs_Launch](resources/Theather_Outcomes_vs_Launch.PNG)
+![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Based on the data retrieved, the highest percentage of success would be a goal less than $1000. There is a downward trend until the goal of $25000 to $29999, where you see a slight upward trend. 
 ![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.PNG)
