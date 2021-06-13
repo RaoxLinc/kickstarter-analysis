@@ -6,10 +6,10 @@
 ## Analysis and Challenges
 
 ### Based on past Kickstarter data, The highest outcome is in May, a 62% chance in success rate. In December the amount of failed almost equals the amount of succeeded, a 49% chance of success.
-![Theater_Outcomes_vs_Launch](kickstarter-analysis/resources/Theather_Outcomes_vs_Launch.PNG)
+![Theater_Outcomes_vs_Launch](kickstarter-analysis/resources/resources/Theather_Outcomes_vs_Launch.PNG)
 
 ### Based on the data retrieved, the highest percentage of success would be a goal less than $1000. There is a downward trend until the goal of $25000 to $29999, where you see a slight upward trend. 
-![Outcomes_vs_Goals](kickstarter-analysis/resources/Outcomes_vs_Goals.PNG)
+![Outcomes_vs_Goals](kickstarter-analysis/resources/resources/Outcomes_vs_Goals.PNG)
 
 ### No difficulties encountered while running analysis. Possible difficulties that could be encounter is economy. Where there could be a low economic stability which one cannot account for while planning to launch a play. 
 
