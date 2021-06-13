@@ -1,7 +1,8 @@
 # kickstarter-analysis
 ## Analysis on Kickstarter data to uncover trends 
+
 ### Purpose to help draw conclusions about Theather Kickstarter outcome
----
+
 ## Analysis and Challenges
 
 ### Based on past Kickstarter data, The highest outcome is in May, a 62% chance in success rate. In December the amount of failed almost equals the amount of succeeded, a 49% chance of success.
